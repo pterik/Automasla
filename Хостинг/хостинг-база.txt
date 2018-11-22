@@ -1,0 +1,4 @@
+Mysql пользователь: petrik07_maslo
+Пароль 1o*_nC67gD
+База: petrik07_maslo
+https://phpmyadmin.adm.tools/
